@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @flydevox
+- 👋 Hi, I'm @sscrash
 - 👀 I'm interested in software development, basketball, and long walks (yes, really)
 - 🌱 I'm currently learning Rust 🦀
 - 💞️ I'm looking to collaborate on cool open-source projects
